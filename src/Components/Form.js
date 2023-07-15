@@ -85,7 +85,7 @@ const Form = () => {
               Sign up with Google
             </button>
             <button className="facebook">
-              <img src={facebookImg} alt="facebook" />
+              <img src={facebookImg} alt="facebook " />
               Sign up with Facebook
             </button>
           </div>
